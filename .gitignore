@@ -1,0 +1,10 @@
+build*
+*.pb.h
+*.pb.cc
+cmake-build*
+.idea
+.DS_Store
+*.deb
+cpp_out
+python_out
+.vscode

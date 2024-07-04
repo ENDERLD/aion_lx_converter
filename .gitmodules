@@ -1,0 +1,12 @@
+[submodule "autonomous_utilities"]
+	path = autonomous_utilities
+	url = git@github.com:autonomous-group/autonomous_utilities.git
+[submodule "autonomous_proto"]
+	path = autonomous_proto
+	url = git@github.com:autonomous-group/autonomous_proto.git
+[submodule "autonomous_cmake"]
+	path = autonomous_cmake
+	url = git@github.com:autonomous-group/autonomous_cmake.git
+[submodule "mw_api"]
+	path = mw_api
+	url = git@github.com:autonomous-group/mw_api.git
